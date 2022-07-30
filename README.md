@@ -9,7 +9,7 @@ A secure password generator application with the following features:
 
 # Demo
 
-![Demo](assets\file-0.png)
+![Demo](./assets/file-0.png)
 
 # Deployment
 
